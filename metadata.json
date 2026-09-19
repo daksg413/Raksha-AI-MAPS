@@ -1,0 +1,7 @@
+{
+  "name": "RAKSHA - City Safety & Intelligence",
+  "description": "Dynamic city intelligence and safety application featuring real-time Safety Index, rainwater flood mapping, multi-layer preference modes, silent community flagging, and emergency quick-access.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
